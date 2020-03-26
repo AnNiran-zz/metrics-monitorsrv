@@ -1,0 +1,1 @@
+{"firstRecord":1585241548,"lastRecord":1585244849,"list":{"metric5":{"Lock":{},"data":{"name":"metric2","firstRecord":1585241687,"lastRecord":1585244849,"sum":40,"valueSet":{"1585244846":20,"1585244849":20}}},"mymetric2":{"Lock":{},"data":{"name":"mymetric2","firstRecord":1585241548,"lastRecord":1585243206,"sum":0,"valueSet":{}}}}}
